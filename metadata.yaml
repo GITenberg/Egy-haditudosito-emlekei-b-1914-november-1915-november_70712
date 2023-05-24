@@ -1,5 +1,8 @@
 _repo: Egy-haditudosito-emlekei-b-1914-november-1915-november_70712
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70712-h/images/cover.jpg
 creator:
   author:
     agent_name: Molnár, Ferenc
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Ferenc_Moln%C3%A1r
     - https://hu.wikipedia.org/wiki/Moln%C3%A1r_Ferenc_(%C3%ADr%C3%B3)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70712#Egy-haditudosito-emlekei-b-1914-november-1915-november
 gutenberg_issued: '2023-05-07'
 identifiers:
   gutenberg: '70712'
